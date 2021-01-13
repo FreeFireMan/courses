@@ -17,4 +17,5 @@ h2 {
 
 .main-photo {
     width: 300px;
+    display: block;
 }
