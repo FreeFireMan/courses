@@ -1,21 +1,40 @@
 body {
-    margin: 40px;
-    background: #F5F5DC;
+  margin: 40px;
+  background: #f5f5dc;
 }
 
 h1 {
-    text-align: center;
-    font-size: 45px;
-    color: #800000;
+  text-align: center;
+  font-size: 45px;
+  color: #800000;
 }
 
-h2 {
-    text-align: center;
-    font-size: 30px;
-    color: #800000;
+.main-inform {
+  display: inline-block;
 }
 
 .main-photo {
-    width: 300px;
-    display: block;
+  width: 300px;
+  display: block;
+  float: right;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  color: #800000;
+}
+
+.photo {
+  width: 500px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+a:hover {
+  color: #800000;
+}
+
+.books {
+  color: #000000;
 }
